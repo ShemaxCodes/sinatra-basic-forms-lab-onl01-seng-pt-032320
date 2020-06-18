@@ -10,9 +10,6 @@ get '/new' do
   
 end 
 
-post '/' do 
-  
-end 
 
 post '/puppy' do 
   
