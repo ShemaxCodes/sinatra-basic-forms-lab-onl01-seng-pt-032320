@@ -8,7 +8,7 @@ get '/' do
 end 
 
 get '/new' do 
-  
+  erb :create_puppy
 end 
 
 
