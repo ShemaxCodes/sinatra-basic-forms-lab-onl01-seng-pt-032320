@@ -3,8 +3,11 @@
 class Puppy 
   attr_accessor :breed, :age
   attr_writer :name 
+  
   def initialize 
-    
+    @name = name 
+    @breed = breed 
+    @age = age 
     
   end 
   
