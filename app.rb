@@ -12,7 +12,7 @@ get '/new' do
 end 
 
 
-post '/puppy:name' do 
+post '/puppy' do 
   
   
 end 
