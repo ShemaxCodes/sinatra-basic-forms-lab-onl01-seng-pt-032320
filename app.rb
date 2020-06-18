@@ -13,6 +13,8 @@ end
 
 
 post '/puppy' do 
+  
+  @puppy = 
   erb :display_puppy
   
 end 
