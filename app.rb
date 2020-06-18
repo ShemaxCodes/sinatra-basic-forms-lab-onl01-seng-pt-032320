@@ -14,5 +14,10 @@ post '/' do
   
 end 
 
+post '/puppy' do 
+  
+  
+end 
+
 
 end
